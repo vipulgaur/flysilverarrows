@@ -1,0 +1,2 @@
+tenant_id,id,booking_id,student_id,instructor_id,reason,details,proposed_start,proposed_end,status,reviewer_id,notes,reviewed_at,created_at,archived_at,inserted_at,updated_at
+5a0e0000-0000-4000-8000-000000000001,RQ-1,BK-102,u-ana,u-vpl,weather,Severe crosswind forecast at EKAH exceeds solo limit (22 kt).,2026-10-22 14:00:00+00,2026-10-22 16:00:00+00,approved,u-demo-admin,Administrator override,2026-10-20 06:40:38.506+00,2026-10-19 09:32:00+00,,2026-10-19 12:40:10.052734+00,2026-10-20 06:40:40.408942+00

@@ -1,0 +1,4 @@
+tenant_id,id,subject_id,title,starts_at,ends_at,room_id,instructor_id,enrolled,attended,signed_off,archived_at,inserted_at,updated_at
+5a0e0000-0000-4000-8000-000000000001,LC-1,s-met,MET-01 Frontal systems,2026-10-20 09:00:00+00,2026-10-20 11:30:00+00,r-alpha,u-anj,"{u-ana,u-arp,u-lnl}",{},f,,2026-10-19 12:40:10.052734+00,2026-10-19 12:40:10.052734+00
+5a0e0000-0000-4000-8000-000000000001,LC-2,s-pof,POF-02 Lift & drag,2026-10-22 13:00:00+00,2026-10-22 15:00:00+00,r-bravo,u-anj,"{u-ana,u-lnl}",{},f,,2026-10-19 12:40:10.052734+00,2026-10-19 12:40:10.052734+00
+5a0e0000-0000-4000-8000-000000000001,LC-0,s-alw,ALW-04 Rules of the air,2026-10-17 09:00:00+00,2026-10-17 11:00:00+00,r-alpha,u-anj,"{u-ana,u-arp,u-lnl}","{u-ana,u-lnl}",t,,2026-10-19 12:40:10.052734+00,2026-10-19 12:40:10.052734+00
